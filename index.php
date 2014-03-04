@@ -50,6 +50,7 @@ $details = include("classes/$class/details.php");
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <script src="lib/bootstrap/js/bootstrap.min.js"></script>
         <script src="lib/tricks.js"></script>
+		<script src="lib/ace/ace.js" type="text/javascript" charset="utf-8"></script>
     </head>
     <body>
 		<div class="container">

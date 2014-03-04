@@ -120,7 +120,6 @@ p {
 }</div></button>
 	</div>
 </div>
-<script src="classes/cssalignsize/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
 <script>
     var editor = ace.edit("editor");
     editor.setTheme("ace/theme/monokai");
